@@ -1,0 +1,15 @@
+{
+  "name": "hot-designer",
+  "version": "0.1.0",
+  "description": "Повний набір дизайнерських скілів в одному плагіні: Impeccable, UI/UX Pro Max, Emil Kowalski design engineering, interaction/interface design, web design guidelines, shadcn/ui, Taste Skill, Extract Design System та Superpowers.",
+  "author": {
+    "name": "Hot Buro"
+  },
+  "keywords": [
+    "design",
+    "ui",
+    "ux",
+    "frontend",
+    "skills"
+  ]
+}

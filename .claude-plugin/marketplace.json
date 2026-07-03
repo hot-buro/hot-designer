@@ -1,0 +1,11 @@
+{
+  "name": "hot-buro",
+  "owner": { "name": "Hot Buro" },
+  "plugins": [
+    {
+      "name": "hot-designer",
+      "source": "./",
+      "description": "Повний набір дизайнерських скілів від Hot Buro: Impeccable, UI/UX Pro Max, Emil Kowalski, interaction/interface design, web design guidelines, shadcn/ui, Taste Skill, Extract Design System, Superpowers."
+    }
+  ]
+}
